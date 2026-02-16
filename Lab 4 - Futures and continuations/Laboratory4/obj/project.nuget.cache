@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bNmR2UWAtW+4B5UAayUvoOlcfXJ4wCMDnbUEP9GmWxAI9yYYRtknAzsJmDDoH7dy9qqifwxR9zcSBFUqSo5MlQ==",
+  "success": true,
+  "projectFilePath": "D:\\Facultate\\Anul 3\\Sem 1\\PDP\\Lab 4 - Futures and continuations\\Laboratory4\\Laboratory4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rares\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rares\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

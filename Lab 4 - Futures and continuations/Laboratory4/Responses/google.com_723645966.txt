@@ -1,0 +1,33 @@
+HTTP/1.1 301 Moved Permanently
+
+Location: http://www.google.com/
+
+Content-Type: text/html; charset=UTF-8
+
+BFCache-Opt-In: unload
+
+Date: Tue, 02 Nov 2021 17:57:36 GMT
+
+Expires: Thu, 02 Dec 2021 17:57:36 GMT
+
+Cache-Control: public, max-age=2592000
+
+Server: gws
+
+Content-Length: 219
+
+X-XSS-Protection: 0
+
+X-Frame-Options: SAMEORIGIN
+
+
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+
+</BODY></HTML>
+
+
