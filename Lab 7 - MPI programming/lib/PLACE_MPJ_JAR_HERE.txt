@@ -1,0 +1,4 @@
+Place mpj.jar here as: lib/mpj.jar
+
+Example (MPJ Express):
+  MPJ_HOME/lib/mpj.jar  ->  ./lib/mpj.jar
