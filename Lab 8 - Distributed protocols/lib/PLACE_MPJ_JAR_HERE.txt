@@ -1,0 +1,3 @@
+Place mpj.jar here as: lib/mpj.jar
+
+MPJ Express is usually provided by the course / local setup.
