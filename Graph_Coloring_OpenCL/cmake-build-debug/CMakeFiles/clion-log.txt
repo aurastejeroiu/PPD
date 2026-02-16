@@ -1,0 +1,24 @@
+C:\Users\Oana\AppData\Local\Programs\CLion\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Oana/AppData/Local/Programs/CLion/bin/ninja/win/ninja.exe -G Ninja C:\Users\Oana\Desktop\PDP\Graph_Coloring_OpenCL
+-- Looking for CL_VERSION_2_2
+-- Looking for CL_VERSION_2_2 - not found
+-- Looking for CL_VERSION_2_1
+-- Looking for CL_VERSION_2_1 - not found
+-- Looking for CL_VERSION_2_0
+-- Looking for CL_VERSION_2_0 - not found
+-- Looking for CL_VERSION_1_2
+-- Looking for CL_VERSION_1_2 - not found
+-- Looking for CL_VERSION_1_1
+-- Looking for CL_VERSION_1_1 - not found
+-- Looking for CL_VERSION_1_0
+-- Looking for CL_VERSION_1_0 - not found
+CMake Error at C:/Users/Oana/AppData/Local/Programs/CLion/bin/cmake/win/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake:230 (message):
+  Could NOT find OpenCL (missing: OpenCL_LIBRARY OpenCL_INCLUDE_DIR)
+Call Stack (most recent call first):
+  C:/Users/Oana/AppData/Local/Programs/CLion/bin/cmake/win/share/cmake-3.21/Modules/FindPackageHandleStandardArgs.cmake:594 (_FPHSA_FAILURE_MESSAGE)
+  C:/Users/Oana/AppData/Local/Programs/CLion/bin/cmake/win/share/cmake-3.21/Modules/FindOpenCL.cmake:163 (find_package_handle_standard_args)
+  CMakeLists.txt:6 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Oana/Desktop/PDP/Graph_Coloring_OpenCL/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/Oana/Desktop/PDP/Graph_Coloring_OpenCL/cmake-build-debug/CMakeFiles/CMakeError.log".

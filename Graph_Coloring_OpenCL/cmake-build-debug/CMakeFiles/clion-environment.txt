@@ -1,0 +1,4 @@
+ToolSet: w64 9.0 (local)@C:\Users\Oana\AppData\Local\Programs\CLion\bin\mingw
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=C:/Users/Oana/AppData/Local/Programs/CLion/bin/ninja/win/ninja.exe

@@ -1,0 +1,3 @@
+C:/Users/Oana/Desktop/PDP/Graph_Coloring_OpenCL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Oana/Desktop/PDP/Graph_Coloring_OpenCL/cmake-build-debug/CMakeFiles/Graph_Coloring_OpenCL.dir
+C:/Users/Oana/Desktop/PDP/Graph_Coloring_OpenCL/cmake-build-debug/CMakeFiles/edit_cache.dir
